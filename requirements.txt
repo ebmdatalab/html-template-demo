@@ -4,11 +4,10 @@
 #
 #    pip-compile
 #
-appnope==0.1.0            # via ipykernel, ipython
 attrs==19.3.0             # via jsonschema, pytest
 backcall==0.1.0           # via ipython
 bash-kernel==0.7.2
-bleach==3.1.0             # via nbconvert
+bleach==3.1.1             # via nbconvert
 click==7.0                # via pip-tools
 coverage==4.5.4           # via nbval
 cycler==0.10.0            # via matplotlib
